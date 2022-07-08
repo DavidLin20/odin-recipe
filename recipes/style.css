@@ -1,0 +1,19 @@
+.i {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.s {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1, 
+h2,
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    background-color: bisque;
+    text-align: center;
+    font-style: italic;
+    border: solid;
+    border-color: black;
+}
